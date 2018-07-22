@@ -44,5 +44,10 @@ Data: Also know as Trained Data, is so called as features
 
 Algorithems can be derived based on the fed features along with the corresponding lables.
 
+# Potential Use-cases
+1) Health industry
+2) Retail industry
+3) IoT
+4) Many more..
 
 
