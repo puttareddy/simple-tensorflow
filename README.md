@@ -1,4 +1,4 @@
-# simple-Tensorflow
+# Simple-Tensorflow
 A simple Machine Learning (ML) example, which runs on browser with JavaScript
 
 # What is Machine Learning (ML)?
